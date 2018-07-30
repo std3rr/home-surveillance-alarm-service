@@ -16,3 +16,8 @@ Its very fascinating to see how much 433 devices we have around, even in the bus
 When none of our phones are present after a minute we fire push notice and activate the shell protection state.<br>
 If any sensor is triggered in this state we fire push notice and arm the ipcam, logging videos to the hubble cloud.<br>
 If it has'nt recieved any radio events for over 5 minutes it will reset it self.<br>
+
+<img src="pics/raspberry_dvb.jpg" width=200px/><img src="pics/ipcam.jpg" width=200px/>
+<img src="pics/megnet_sensor.jpg" width=200px/><img src="pics/mobile_push1.jpg" width=200px/>
+<img src="pics/mobile_push2.jpg" width=200px/>
+<img src="pics/ipcam_ui.jpg" width=200px/>
